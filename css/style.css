@@ -16,4 +16,5 @@ body {
   display: table-cell;
   vertical-align: middle;
   color: #fff;
+  text-transform: uppercase;
 }
